@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521377524 source:u:\smjpx\documents\codeblocks\bresenham-line-drawing\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1523806870 source:u:\prottoyx\documents\codeblocks\bresenham-line-drawing\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
